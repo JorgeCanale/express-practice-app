@@ -1,0 +1,16 @@
+{
+  "name": "express_new_proyect",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run": "node app",
+    "dev": "node node --watch --env-file=.env app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
